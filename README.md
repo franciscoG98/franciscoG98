@@ -4,13 +4,15 @@
 <p align="left"> <a href="https://twitter.com/gonzalezpanchoo" target="blank"><img src="https://img.shields.io/twitter/follow/gonzalezpanchoo?logo=twitter&style=for-the-badge" alt="gonzalezpanchoo" /></a> </p>
 
 
-- 🔭 I’m currently working on **Funko's Store**
+- 🔭 I’m currently working on **Mobile App**
 
-- 🌱 I’m currently learning, i am on a bootcamp: [Henry](https://soyhenry.com/)
+- 🌱 I studied at [Henry](https://soyhenry.com/)
+
+- :technologist: I'm Full Stack developer with passion for fron-end
 
 - I love outdoor sports:  :skier: skiing, :mountain: trekking and :climbing:rock climbing
 
-<span>My friends call me pancho :hotdog:. I'm graduating as a full stack web dev this January and i'm very exited to keep learning! My short-term goals are:</span>
+<span>My friends call me pancho :hotdog:. I'm very exited to keep learning! My short-term goals are:</span>
 <ul>
   <li>Finish my portfolio</li>
   <li>Get a Job in IT</li>
