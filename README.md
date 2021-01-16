@@ -8,7 +8,7 @@
 
 - 🌱 I studied at [Henry](https://soyhenry.com/)
 
-- :technologist: I'm Full Stack developer with passion for fron-end
+- :technologist: I'm Full Stack developer with passion for front-end
 
 - I love outdoor sports:  :skier: skiing, :mountain: trekking and :climbing:rock climbing
 
