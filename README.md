@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
 <ul>
-  <li>🌱 I studied at [Henry](https://github.com/soyHenry)</li>
+  <li>🌱 I studied at [Soy Henry](https://www.soyhenry.com/)</li>
+  <li>[I'm an inline-style link](https://www.google.com)</li>
   <li>:technologist: I'm Full Stack developer with passion for front-end</li>
   <li>I love outdoor sports:  :skier: skiing, :mountain: trekking and :climbing:rock climbing</li>
 </ul>
