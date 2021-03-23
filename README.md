@@ -1,12 +1,9 @@
 <h1 align="center">Hi there👋, welcome to my repo :sunglasses:</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-<ul>
-  <li>🌱 I studied at [Soy Henry](https://www.soyhenry.com/)</li>
-  <li>[I'm an inline-style link](https://www.google.com)</li>
-  <li>:technologist: I'm Full Stack developer with passion for front-end</li>
-  <li>I love outdoor sports:  :skier: skiing, :mountain: trekking and :climbing:rock climbing</li>
-</ul>
+* 🌱 I studied at [Soy Henry](https://www.soyhenry.com/)
+* :technologist: I'm Full Stack developer with passion for front-end
+* I love outdoor sports:  :skier: skiing, :mountain: trekking and :climbing:rock climbing
 
 <h3 align="center">I'm very exited to keep learning! My short-term goals are:</h3>
 <ul>
