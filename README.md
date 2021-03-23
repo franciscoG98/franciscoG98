@@ -30,6 +30,9 @@
     </a> 
     <a href="https://getbootstrap.com" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://material-ui.com/" target="_blank">
+      <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/material_ui_icon_137419.png" alt="MaterialUI" width="40" height="40"/>
     </a> 
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" alt="linux" width="40" height="40"/>
@@ -39,9 +42,6 @@
     </a>
     <a href="https://redux.js.org" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40" height="40"/>
-    </a> 
-    <a href="https://babeljs.io/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
     </a> 
     <a href="https://expressjs.com" target="_blank">
        <img src="https://img2.freepng.es/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" alt="express" width="40" height="40"/>
@@ -60,9 +60,6 @@
     <a href="https://www.sqlite.org/" target="_blank"> 
       <img src="https://miro.medium.com/max/623/1*X0KStHfY__eO1IN6jaW53Q.jpeg" alt="sqlite" width="40" height="40"/>
     </a>
-    <a href="https://webpack.js.org" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-    </a> 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscog98&show_icons=true&locale=en&layout=compact" alt="franciscog98" /></p>
