@@ -1,26 +1,22 @@
 <h1 align="center">Hi there👋,my name is Francisco welcome to my repo :sunglasses:</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-<p align="left"> <a href="https://twitter.com/gonzalezpanchoo" target="blank"><img src="https://img.shields.io/twitter/follow/gonzalezpanchoo?logo=twitter&style=for-the-badge" alt="gonzalezpanchoo" /></a> </p>
-
-
-- 🌱 I studied at [Henry](https://soyhenry.com/)
-
-- :technologist: I'm Full Stack developer with passion for front-end
-
-- I love outdoor sports:  :skier: skiing, :mountain: trekking and :climbing:rock climbing
+<ul>
+  <li>- 🌱 I studied at [Henry](https://github.com/soyHenry)</li>
+  <li>- :technologist: I'm Full Stack developer with passion for front-end</li>
+  <li>- I love outdoor sports:  :skier: skiing, :mountain: trekking and :climbing:rock climbing</li>
+</ul>
 
 <span>I'm very exited to keep learning! My short-term goals are:</span>
 <ul>
   <li>Finish my portfolio</li>
-  <li>Learn more about linux, try other distros and contribute to the comunity</li>
+  <li>Learn more about GNU/Linux, try other distros and contribute to the comunity. I'm getting to know UNIX based operative Systems</li>
   <li>Learn python</li>
 </ul>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gonzalezpanchoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gonzalezpanchoo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/francisco-gonzalez-72aa5a158" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="francisco-gonzalez-72aa5a158" height="30" width="40" /></a>
 </p>
 
