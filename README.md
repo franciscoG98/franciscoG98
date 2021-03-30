@@ -13,7 +13,7 @@
 </ul>
 
 
-📫 For more information, you can find me in [LinkedIn](https://www.linkedin.com/in/francisco-gonzalez-web-dev/) 
+📫 For more information, you can find me on [LinkedIn](https://www.linkedin.com/in/francisco-gonzalez-web-dev/) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
