@@ -1,13 +1,14 @@
-<h1 align="center">Hi there👋, welcome to my Github :sunglasses:</h1>
+<h1 align="center">Hi netizen👋, welcome to my Github :sunglasses:</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
 * 🌱 I studied at [Soy Henry](https://www.soyhenry.com/)
 * :technologist: I'm Full Stack developer with passion for front-end
-* I love outdoor sports:  :skier: skiing, :mountain: trekking and :climbing:rock climbing
+* Here you can see my [portfolio](https://github.com/franciscoG98/portfolio) (version 1), I really appreciate feedback
+* I love outdoor sports:  :skier: :mountain: and :climbing:
 
 <h3 align="center">I'm very exited to keep learning! My short-term goals are:</h3>
 <ul>
-  <li>Finish my portfolio</li>
+  <li>Master CSS animations</li>
   <li>Learn more about GNU/Linux, try other distros and contribute to the comunity. I'm getting to know UNIX based operative Systems</li>
   <li>Learn python</li>
 </ul>
