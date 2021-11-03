@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
 * 🌱 I studied at [Soy Henry](https://www.soyhenry.com/)
-* :technologist: I'm Full Stack developer with passion for front-end
+* :technologist: I'm Full Stack developer with passion for front-end. Also begining in Testing 💪
 * Here you can see my [portfolio](https://franciscog98.github.io/portfolio/) (version 1), I really appreciate feedback
 * I love outdoor sports:  :skier: :mountain: and :climbing:
 
