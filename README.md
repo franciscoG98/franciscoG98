@@ -1,11 +1,13 @@
 <h1 align="center">Hi netizen👋, welcome to my Github :sunglasses:</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-* 🌱 I studied at [Soy Henry](https://www.soyhenry.com/)
-* :technologist: I'm Full Stack developer with passion for front-end. Also begining in Testing 💪
-* Here you can see my [portfolio](https://franciscog98.github.io/portfolio/) (version 1), I really appreciate feedback
-* I love outdoor sports:  :skier: :mountain: and :climbing:
-
+* 🌱 I <b>studied</b> at [Soy Henry](https://www.soyhenry.com/)
+* :technologist: I'm Full Stack developer with  <b>passion for front-end</b>. Also begining in Testing 💪
+* Here you can see my [portfolio](https://franciscog98.github.io/portfolio/) (version 1), I really <b>appreciate feedback</b> 
+* I <b>love outdoor</b> sports:  :skier: :mountain: and :climbing:
+* For more information, <b>you can find me</b> on [LinkedIn](https://www.linkedin.com/in/francisco-gonzalez-web-dev/) 📫
+* Or <b>book a brief call</b> with me --> [Calendly]()
+   
 <h3 align="center">I'm very exited to keep learning! My short-term goals are:</h3>
 <ul>
   <li>Master CSS animations</li>
@@ -14,7 +16,6 @@
 </ul>
 
 
-📫 For more information, you can find me on [LinkedIn](https://www.linkedin.com/in/francisco-gonzalez-web-dev/) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
