@@ -6,13 +6,12 @@
 * Here you can see my [portfolio](https://franciscog98.github.io/portfolio/) (version 1), I really <b>appreciate feedback</b> 
 * I <b>love outdoor</b> sports:  :skier: :mountain: and :climbing:
 * For more information, <b>you can find me</b> on [LinkedIn](https://www.linkedin.com/in/francisco-gonzalez-web-dev/) 📫
-* Or <b>book a brief call</b> with me --> [Calendly]()
+* Or <b>book a brief call</b> with me --> [Calendly](https://calendly.com/francisco-webdev/15min)
    
 <h3 align="center">I'm very exited to keep learning! My short-term goals are:</h3>
 <ul>
   <li>Master CSS animations</li>
   <li>Learn more about GNU/Linux, try other distros and contribute to the comunity. I'm getting to know UNIX based operative Systems</li>
-  <li>Learn python</li>
 </ul>
 
 
