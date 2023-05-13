@@ -3,7 +3,7 @@
 
 * 🌱 I <b>studied</b> at [Soy Henry](https://www.soyhenry.com/)
 * :technologist: I'm Full Stack developer with  <b>passion for front-end</b>. Also begining in Testing 💪
-* Here you can see my [portfolio](https://franciscog98.github.io/portfolio/) (version 1), I really <b>appreciate feedback</b> 
+* Here you can see my [portfolio](https://franciscog98.netlify.app/), I really <b>appreciate feedback</b> 
 * I <b>love outdoor</b> sports:  :skier: :mountain: and :climbing:
 * For more information, <b>you can find me</b> on [LinkedIn](https://www.linkedin.com/in/francisco-gonzalez-web-dev/) 📫
 * Or <b>book a brief call</b> with me --> [Calendly](https://calendly.com/francisco-webdev/15min)
