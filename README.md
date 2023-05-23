@@ -7,13 +7,6 @@
 * I <b>love outdoor</b> sports:  :skier: :mountain: and :climbing:
 * For more information, <b>you can find me</b> on [LinkedIn](https://www.linkedin.com/in/francisco-gonzalez-web-dev/) 📫
 * Or <b>book a brief call</b> with me --> [Calendly](https://calendly.com/francisco-webdev/15min)
-   
-<h3 align="center">I'm very exited to keep learning! My short-term goals are:</h3>
-<ul>
-  <li>Master CSS animations</li>
-  <li>Learn more about GNU/Linux, try other distros and contribute to the comunity. I'm getting to know UNIX based operative Systems</li>
-</ul>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -62,3 +55,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscog98&show_icons=true&locale=en&layout=compact" alt="franciscog98" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
