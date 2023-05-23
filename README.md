@@ -54,6 +54,4 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscog98&show_icons=true&locale=en&layout=compact" alt="franciscog98" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoG98&layout=compact)](https://github.com/franciscoG98/github-readme-stats)
