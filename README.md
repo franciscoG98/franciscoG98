@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Typescript and C**
-
 - 👨‍💻 All of my projects are available at [portfolio](https://franciscog98.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
