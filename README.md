@@ -1,7 +1,7 @@
 <h1>Hi 👋</h1>
 
 - 👨‍💻 All of my projects are available at [portfolio](https://franciscog.vercel.app/)
-- 📘 I'm currently studing for [IT Technician](https://www.ing.unne.edu.ar/tecnicatura-informatica/) at [UNNE](https://www.unne.edu.ar/) (National University of the North-east)
+- 📘 I'm a software developer and [IT Technician](https://www.ing.unne.edu.ar/tecnicatura-informatica/), I've studied at [UNNE](https://www.unne.edu.ar/) (Universidad Nacional del Nordeste)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
